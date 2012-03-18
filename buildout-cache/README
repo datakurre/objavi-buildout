@@ -1,0 +1,2 @@
+This is a placeholder for buildout downloads and extends cache, because
+buildout doesn't create defined download-cache and extends-cache automatically.
