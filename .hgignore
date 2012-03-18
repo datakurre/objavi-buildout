@@ -1,0 +1,10 @@
+syntax: glob
+bin
+eggs
+parts
+develop-eggs
+src
+etc
+var
+.installed.cfg
+.mr.developer.cfg
